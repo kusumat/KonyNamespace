@@ -1,0 +1,43 @@
+{
+	"AS_Button_g101e609f88744fcaa33411fc82a266b": {
+		"id": "AS_Button_g101e609f88744fcaa33411fc82a266b",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": "",
+			"KUID": "ed85ffa63bba49ccb9491bc45d0ab7dc",
+			"name": "Form1"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION__ccddeb25203248cd833dcb7ca14cc73a",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "takeScreenShot",
+				"display": "takeScreenShot",
+				"inputparams": [],
+				"parentId": null,
+				"callbackType": null,
+				"disabled": null,
+				"source": "controller"
+			},
+			{
+				"id": "INVOKE_FUNCTION__i01fdf6a9926459496e170491c02dbc6",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "generateImg",
+				"display": "generateImg",
+				"inputparams": [],
+				"parentId": null,
+				"callbackType": null,
+				"disabled": null,
+				"source": "controller"
+			}
+		]
+	}
+}

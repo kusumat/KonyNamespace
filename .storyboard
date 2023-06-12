@@ -1,0 +1,26 @@
+{
+    "models": {
+        "mobile": {
+            "class": "GraphLinksModel",
+            "linkDataArray": [],
+            "nodeDataArray": [
+                {
+                    "formKUID": "i56e8ad73def4ae5a04566ee145e1f3c",
+                    "formName": "frmNamespace",
+                    "isStartupForm": false,
+                    "key": "i56e8ad73def4ae5a04566ee145e1f3c",
+                    "loc": "8 24.845263671875003",
+                    "thumbnailURL": null
+                },
+                {
+                    "formKUID": "ae75ae8d8eb24cf38a3ea04b6fdbcb32",
+                    "formName": "frmNoSQL",
+                    "isStartupForm": true,
+                    "key": "ae75ae8d8eb24cf38a3ea04b6fdbcb32",
+                    "loc": "8 624.845263671875",
+                    "thumbnailURL": "/assets/KonyNamespace/forms/mobile/frmNoSQL.sm/.thumbs/default.jpeg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+	"AS_Button_e9a66deb21f94fd695b90c53149dc0f4": {
+		"id": "AS_Button_e9a66deb21f94fd695b90c53149dc0f4",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION__ide_onClick_g86a3ea1213b480fbdd49d624c7dca25",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "print",
+				"display": "print",
+				"inputparams": [],
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			}
+		]
+	}
+}

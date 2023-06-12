@@ -1,0 +1,28 @@
+{
+	"AS_Label_c2dd6d4bc5254da181b606ad9f1bd4c9": {
+		"id": "AS_Label_c2dd6d4bc5254da181b606ad9f1bd4c9",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			},
+			{
+				"datatype": "string",
+				"name": "x"
+			},
+			{
+				"datatype": "string",
+				"name": "y"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": "",
+			"KUID": "i56e8ad73def4ae5a04566ee145e1f3c",
+			"name": "frmNamespace"
+		},
+		"language": "js",
+		"actions": []
+	}
+}
